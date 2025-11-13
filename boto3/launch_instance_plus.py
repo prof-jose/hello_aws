@@ -1,3 +1,7 @@
+"""
+Same as launch_instance_simple.py but with minimal logging and error handling.
+"""
+
 import boto3
 import os
 import subprocess
